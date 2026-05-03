@@ -3,7 +3,7 @@
 This repository contains the implementation code for the paper:
 
 > **"Context-specific drug scoring for precision repurposing via synergizing label propagation with heterogeneous networks"**  
-> Yonghyun Nam, Sang-Hyuk Jung, Jakob Woerner, et al.  
+> Yonghyun Nam et al.  
 > *Journal of Big Data* (under revision)
 
 ---
