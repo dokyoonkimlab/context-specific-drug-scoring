@@ -103,17 +103,6 @@ python 4_comparison_benchmark.py --disease RA --mu 0.5
 
 ---
 
-## Citation
-
-```
-@article{nam2025drugscoring,
-  title={Context-specific drug scoring for precision repurposing via synergizing label propagation with heterogeneous networks},
-  author={Nam, Yonghyun and Jung, Sang-Hyuk and Woerner, Jakob and others},
-  journal={Journal of Big Data},
-  year={2025}
-}
-```
-
 ---
 
 ## Contact
